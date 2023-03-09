@@ -11,8 +11,8 @@ There was a large skew between the number paid Vine reviews and unpaid:
 * The total number of unpaid Vine reviews is 37385
 * The total number of 5-star paid Vine reviews is 44
 * The total number of 5-star unpaid Vine reviews is 14626
-* The percent of 5-star paid Vine reviews is 48
-* The percent of 5-star unpaid Vine reviews is 39
+* The percent of 5-star paid Vine reviews is 48%
+* The percent of 5-star unpaid Vine reviews is 39%
 
 ### Datasets
 The full dataset for the Video Game Vine reviews looks like this:
@@ -22,6 +22,13 @@ Paid vine dataset
 ![paid](resources/images/vine.png)
 
 Unpaid Vine dataset
-![unpaid]()
+![unpaid](resources/images/unpaid_vine.png)
+
+I used the following codes to determine the total number of 5-star paid Vine and the percent:
+![5star_paid](resources/images/paid_reviews.png)
+
+And for unpaid:
+![5star_unpaid](resources/images/unpaid_reviews.png)
 
 ## Summary
+In conclusion, we can determine that there is a large amount of bias. There is a healthy amount of 5-star reviews coming from unpaid Vine review members compared to actual paying customers. Mind that this is specifically for the **Video Games** category. Results may vary greatly using other categories. As paid members actually send items of their to review, it may not be as cost effective compared to a different category such as Home & Garden. As far as the Video Game category is concerned, seller may be able to get by without paying for the Vine reviews service as there is a very large number of reviews coming from the unpaid sector. 
